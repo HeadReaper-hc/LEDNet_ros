@@ -1,0 +1,3 @@
+<launch>
+  <node name="orb_semantic" pkg="LEDNet" type="demo.py" output="screen"/>
+</launch>
